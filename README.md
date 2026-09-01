@@ -84,8 +84,7 @@
 
 **Инструменты:** Python (Pandas), SQL, SQLite
 
-👉 [Посмотреть полный анализ]([Uploading index.html.html…]()
-)
+👉 [Посмотреть полный анализ](https://Dyor-Toltenko.github.io/e-COMMERCE-ANALYSIS/)
 
 ---
 
