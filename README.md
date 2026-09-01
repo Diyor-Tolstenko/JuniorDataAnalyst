@@ -84,7 +84,8 @@
 
 **Инструменты:** Python (Pandas), SQL, SQLite
 
-👉 [Посмотреть полный анализ](file:///C:/Users/Deeorbe/Desktop/portfolio_ecommerce_GITHUB.html)
+👉 [Посмотреть полный анализ]([Uploading index.html.html…]()
+)
 
 ---
 
