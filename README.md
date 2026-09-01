@@ -1,4 +1,3 @@
-# e-COMMERCE-ANALYSIS
 # 📊 Data Analyst Portfolio
 
 Привет! Я **Data Analyst** с растущей экспертизой в анализе данных e-commerce и бизнес-аналитике.
@@ -7,7 +6,7 @@
 
 ## 👨‍💼 About Me
 
-**Dier** | 19 лет | 
+**Dier** | 19 лет | Уник  
 Ответственный, аналитически мыслящий специалист с развитыми навыками в анализе больших данных и создании actionable insights для бизнеса.
 
 ---
@@ -23,7 +22,7 @@
 | Курс | Платформа | Статус |
 |------|-----------|--------|
 | Data Analytics | **Proweb** | ✅ Завершено |
-| MAAB Academy | **MAAB Academy** | ✅ Не законченное |
+| MAAB Academy | **MAAB Academy** | ✅ Сертификат |
 | Alif Academy | **Alif Academy** | ✅ Сертификат |
 
 ---
@@ -66,7 +65,6 @@
 |------|---------|-----------|
 | Русский | Родной | — |
 | Английский | B2 | IELTS ✅ |
-| Узбекский | Родной | - |
 
 ---
 
@@ -86,7 +84,7 @@
 
 **Инструменты:** Python (Pandas), SQL, SQLite
 
-👉 [Посмотреть полный анализ](./portfolio_ecommerce.html)
+👉 [Посмотреть полный анализ](./portfolio_ecommerce_GITHUB.html)
 
 ---
 
@@ -112,9 +110,9 @@
 
 ## 📞 Контакты & Ссылки
 
-- 📧 Email: [diortolstenko@gmail.com]
-- 🔗 Telegram: [@deeorq]
-- 💻 GitHub: [Diyor-Tolstenko]
+- 📧 Email: [твоя почта]
+- 🔗 LinkedIn: [твой профиль]
+- 💻 GitHub: [твой ник]
 - 📍 Местоположение: Ташкент, Узбекистан
 
 ---
