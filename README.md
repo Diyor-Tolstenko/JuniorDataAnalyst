@@ -6,7 +6,9 @@ Data Science student at International Digital University with a focus on data an
 Languages & Data Analysis
 
 🐍 Python / Pandas: read_csv, read_excel, head, tail, describe, groupby, agg, sort_values, loc, iloc, drop, isnull, merge, apply, def., NumPy, Matplotlib
+
 🗄️ SQL: SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, CASE WHEN, Subqueries, Aggregate Functions (COUNT, SUM, AVG, MIN, MAX), AND/OR/IN, UNION, UNION ALL, UPDATE, DROP.
+
 Data Visualization & BI, DAX
 
 📊 Power BI
