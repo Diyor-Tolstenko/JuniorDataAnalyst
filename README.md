@@ -5,15 +5,15 @@ Data Science student at International Digital University with a focus on data an
 🛠️ Skills & Tools
 Languages & Data Analysis
 
-🐍 Python — Pandas, NumPy, Matplotlib
-🗄️ SQL — PostgreSQL, MySQL, SQLite
-Data Visualization & BI
+🐍 Python / Pandas: read_csv, read_excel, head, tail, describe, groupby, agg, sort_values, loc, iloc, drop, isnull, merge, apply, def., NumPy, Matplotlib
+🗄️ SQL: SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, CASE WHEN, Subqueries, Aggregate Functions (COUNT, SUM, AVG, MIN, MAX), AND/OR/IN, UNION, UNION ALL, UPDATE, DROP.
+Data Visualization & BI, DAX
 
 📊 Power BI
 📗 Excel — Data Cleaning, Basic Functions
 AI Tools
 
-🤖 Claude — data analysis, problem solving, structured presentations
+🤖 Claude — data analysis, solivng difficult data problems, structured presentations, showing clear view about data 
 🎓 Education
 International Digital University
 Data Science
