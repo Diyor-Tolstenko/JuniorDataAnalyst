@@ -5,6 +5,9 @@ Data Science student at International Digital University with a focus on data an
 🛠️ Skills & Tools
 Languages & Data Analysis
 
+My sides.
+I will make your data simple and understandable in plain language; I will visualize, clean, and handle anomalies using AI, and present your data in business terms to facilitate rapid decision-making
+
 🐍 Python / Pandas: read_csv, read_excel, head, tail, describe, groupby, agg, sort_values, loc, iloc, drop, isnull, merge, apply, def., NumPy, Matplotlib
 
 🗄️ SQL: SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, CASE WHEN, Subqueries, Aggregate Functions (COUNT, SUM, AVG, MIN, MAX), AND/OR/IN, UNION, UNION ALL, UPDATE, DROP.
