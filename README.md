@@ -1,8 +1,58 @@
-Diyor Tolstenko
-Junior Data Analyst | Data Science Student
-Data Science student at International Digital University with a focus on data analysis and visualization.
-
-Tech Stack:
+Diyor Tolstenko Normamatovich
+Data Analyst + AI-Assisted Analytics
+I am a Junior Data Analyst focused on turning raw data into clear business insights and practical decisions. I combine data analysis, business logic, visualization, and AI tools to solve analytical problems and help businesses better understand their data.
+Currently, I am studying Data Science at International Digital University (IDU) while developing my professional skills in Data Analytics, Business Analytics, and Artificial Intelligence.
+ 
+⸻
+ 
+What I Can Do for Your Business
+Analyze business and operational data
+Identify trends, patterns, anomalies, and key business drivers
+Build analytical dashboards and reports
+Transform raw data into actionable business insights
+Answer business questions using SQL and Python
+Analyze sales, customers, products, employees, and business processes
+Define and track KPIs
+Perform exploratory data analysis
+Clean, transform, and prepare datasets
+Create data visualizations for decision-making
+Apply business logic to interpret analytical results
+Support data-driven decision-making
+Use AI tools to accelerate research, analysis, documentation, and problem solving
+My approach is not only to find what happened, but also to understand why it happened and what the business can do about it.
+ 
+⸻
+ 
+Experience
+Uzum — Data Analyst
+6 months
+Worked with business data and analytical tasks, applying SQL, Python, Excel, and visualization tools to analyze data and support business decision-making.
+ 
+⸻
+ 
+Education
+International Digital University (IDU)
+Data Science — Current Student
+ 
+⸻
+ 
+Courses & Certifications
+ProWeb — Data Analytics / IT
+MAAB Academy — Data Analytics
+Alif Academy — Data Analytics
+ProWeb Certificate — Certified
+ 
+⸻
+ 
+Languages
+Language Level
+Russian Native
+Uzbek Native
+English IELTS B2
+ 
+⸻
+ 
+Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
@@ -10,34 +60,225 @@ Tech Stack:
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+ 
+⸻
+ 
+Skills
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) SQL
+SELECT
+FROM
+WHERE
+DISTINCT
+ORDER BY
+GROUP BY
+HAVING
+LIMIT
+JOIN
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+UNION
+UNION ALL
+CASE
+WHEN / THEN / ELSE
+Aggregate Functions  
+COUNT
+SUM
+AVG
+MIN
+MAX
+String Functions
+Date Functions
+NULL handling
+IS NULL
+IS NOT NULL
+Subqueries
+Correlated Subqueries
+IN
+NOT IN
+EXISTS
+UPDATE
+DELETE
+INSERT
+Basic data manipulation
+Basic data cleaning with SQL
+Analytical queries
+KPI calculations
+ 
+⸻
+ 
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+Python fundamentals
+Variables and data types
+Lists, tuples, dictionaries, sets
+Conditional statements
+Loops
+Functions
+Basic exception handling
+Working with files
+Basic data structures
+Data manipulation
+Basic exploratory data analysis
+ 
+⸻
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+read_csv()
+read_excel()
+head()
+tail()
+info()
+describe()
+shape
+columns
+dtypes
+loc[]
+iloc[]
+Boolean filtering
+sort_values()
+groupby()
+agg()
+apply()
+merge()
+concat()
+drop()
+drop_duplicates()
+isnull()
+fillna()
+dropna()
+Data type conversion
+Data cleaning
+Data transformation
+Basic EDA
+ 
+⸻
+ 
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+Data cleaning
+Sorting and filtering
+Tables
+Conditional formatting
+Basic formulas
+SUM
+AVERAGE
+MIN
+MAX
+COUNT
+COUNTA
+COUNTIF
+SUMIF
+AVERAGEIF
+IF
+AND
+OR
+IFERROR
+VLOOKUP
+XLOOKUP
+INDEX
+MATCH
+Pivot Tables
+Charts
+Basic business reporting
+ 
+⸻
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+Data loading
+Power Query
+Data cleaning
+Data transformation
+Data modeling
+Relationships
+Calculated columns
+Measures
+KPI dashboards
+Interactive reports
+Data visualization
+DAX
+SUM()
+AVERAGE()
+MIN()
+MAX()
+COUNT()
+COUNTROWS()
+DISTINCTCOUNT()
+DIVIDE()
+CALCULATE()
+FILTER()
+IF()
+SWITCH()
+RELATED()
+Basic time intelligence
+Basic filter context
+Basic row context
+Percentage calculations
+KPI calculations
+ 
+⸻
+ 
+[![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
+SQL development
+Database connection
+Query execution
+Data exploration
+Table inspection
+Filtering
+Sorting
+Exporting query results
+Database navigation
+Basic database management
+ 
+⸻
+ 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+ChatGPT
+Analytical problem solving
+SQL assistance
+Python assistance
+Data analysis support
+Business question formulation
+Research
+Documentation
+Analytical brainstorming
+Debugging
+Data interpretation
+Claude
+Data analysis assistance
+Large-context document analysis
+SQL and Python assistance
+Business research
 
-My sides.
-I will make your data simple and understandable in plain language; I will visualize, clean, and handle anomalies using AI, and present your data in business terms to facilitate rapid decision-making
+AI is used as an analytical productivity tool, while final conclusions and business decisions are based on data validation and human reasoning.
+ 
+⸻
+ 
+Analytical Approach
+Business Question → Data → Cleaning → Exploration → Analysis → Visualization → Insight → Business Action
+I focus on connecting technical analysis with business context rather than producing charts without a clear purpose.
+ 
+⸻
+ 
+Portfolio
+My projects include:
+SQL Data Analysis
+Python & Pandas Analysis
+E-commerce Analysis
+HR Analytics
+Banking Data Visualization
+Business Intelligence Dashboards
+Power BI Reports
+Business Insight Analysis
+ 
+⸻
+ 
+Contact:
+Telegram - @deeorq
+Linkedin - Dior Tolstenko
+Email - @diortolstenko@gmail.com
+Number - +998 93 831 80 10
 
-🐍 Python / Pandas: read_csv, read_excel, head, tail, describe, groupby, agg, sort_values, loc, iloc, drop, isnull, merge, apply, def., NumPy, Matplotlib
-
-🗄️ SQL: SELECT, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, CASE WHEN, Subqueries, Aggregate Functions (COUNT, SUM, AVG, MIN, MAX), AND/OR/IN, UNION, UNION ALL, UPDATE, DROP.
-
-Data Visualization & BI, DAX
-
-📊 Power BI
-📗 Excel — Data Cleaning, Basic Functions
-AI Tools
-
-🤖 Claude — data analysis, solivng difficult data problems, structured presentations, showing clear view about data 
-🎓 Education
-International Digital University
-Data Science
-
-Completed Data Analytics programs at:
-
-PROWEB
-Alif Academy
-MAAB Academy
-🌍 Languages
-🇺🇿 Uzbek — Native
-🇷🇺 Russian — Fluent
-🇬🇧 English — IELTS B2
-📂 Portfolio
-This portfolio showcases my data analysis projects, technical skills, and approach to working with data.
+Diyor Tolstenko Normamatovich
+Data Analyst | Data Science Student | AI-Assisted Analytics
+Documentation
+Analytical reasoning
+Problem decomposition
