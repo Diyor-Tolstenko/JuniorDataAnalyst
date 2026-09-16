@@ -275,7 +275,7 @@ Business Insight Analysis,
 Contact:
 Telegram - @deeorq |
 Linkedin - Dior Tolstenko |
-Email - @diortolstenko@gmail.com |
+Email - diortolstenko@gmail.com |
 Number - +998 93 831 80 10 |
 
 Diyor Tolstenko Normamatovich |
