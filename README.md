@@ -272,12 +272,12 @@ Business Insight Analysis
 ⸻
  
 Contact:
-Telegram - @deeorq
-Linkedin - Dior Tolstenko
-Email - @diortolstenko@gmail.com
-Number - +998 93 831 80 10
+Telegram - @deeorq |
+Linkedin - Dior Tolstenko |
+Email - @diortolstenko@gmail.com |
+Number - +998 93 831 80 10 |
 
-Diyor Tolstenko Normamatovich
+Diyor Tolstenko Normamatovich |
 Data Analyst | Data Science Student | AI-Assisted Analytics
 Documentation
 Analytical reasoning
