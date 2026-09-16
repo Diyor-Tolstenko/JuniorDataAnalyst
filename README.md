@@ -106,7 +106,7 @@ Basic data cleaning with SQL,
 Analytical queries,
 KPI calculations,
  
-⸻
+
  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -122,7 +122,7 @@ Basic data structures,
 Data manipulation,
 Basic exploratory data analysis,
  
-⸻
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 read_csv(),
 read_excel(),
@@ -152,7 +152,7 @@ Data cleaning,
 Data transformation,
 Basic EDA,
  
-⸻
+
  
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 Data cleaning,
@@ -181,7 +181,7 @@ Pivot Tables,
 Charts,
 Basic business reporting,
  
-⸻
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 Data loading,
 Power Query,
@@ -214,8 +214,8 @@ Basic row context,
 Percentage calculations,
 KPI calculations,
  
-⸻
- 
+
+
 [![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 SQL development,
 Database connection,
@@ -228,9 +228,9 @@ Exporting query results,
 Database navigation,
 Basic database management,
  
-⸻
+
  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white) /
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
 ChatGPT,
 Analytical problem solving,
