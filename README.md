@@ -2,8 +2,15 @@ Diyor Tolstenko
 Junior Data Analyst | Data Science Student
 Data Science student at International Digital University with a focus on data analysis and visualization.
 
-🛠️ Skills & Tools
-Languages & Data Analysis
+Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+
 
 My sides.
 I will make your data simple and understandable in plain language; I will visualize, clean, and handle anomalies using AI, and present your data in business terms to facilitate rapid decision-making
