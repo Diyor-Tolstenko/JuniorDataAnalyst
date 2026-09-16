@@ -63,211 +63,212 @@ Tech Stack
  
 ⸻
  
-Skills
+Skills:
+
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) SQL
-SELECT
-FROM
-WHERE
-DISTINCT
-ORDER BY
-GROUP BY
-HAVING
-LIMIT
-JOIN
-INNER JOIN
-LEFT JOIN
-RIGHT JOIN
-UNION
-UNION ALL
-CASE
-WHEN / THEN / ELSE
-Aggregate Functions  
-COUNT
-SUM
-AVG
-MIN
-MAX
-String Functions
-Date Functions
-NULL handling
-IS NULL
-IS NOT NULL
-Subqueries
-Correlated Subqueries
-IN
-NOT IN
-EXISTS
-UPDATE
-DELETE
-INSERT
-Basic data manipulation
-Basic data cleaning with SQL
-Analytical queries
-KPI calculations
+SELECT,
+FROM,
+WHERE,
+DISTINCT,
+ORDER BY,
+GROUP BY,
+HAVING,
+LIMIT,
+JOIN,
+INNER JOIN,
+LEFT JOIN,
+RIGHT JOIN,
+UNION,
+UNION ALL,
+CASE,
+WHEN / THEN / ELSE,
+Aggregate Functions,
+COUNT,
+SUM,
+AVG,
+MIN,
+MAX,
+String Functions,
+Date Functions,
+NULL handling,
+IS NULL,
+IS NOT NULL,
+Subqueries,
+Correlated Subqueries,
+IN,
+NOT IN,
+EXISTS,
+UPDATE,
+DELETE,
+INSERT,
+Basic data manipulation,
+Basic data cleaning with SQL,
+Analytical queries,
+KPI calculations,
  
 ⸻
  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-Python fundamentals
-Variables and data types
-Lists, tuples, dictionaries, sets
-Conditional statements
-Loops
-Functions
-Basic exception handling
-Working with files
-Basic data structures
-Data manipulation
-Basic exploratory data analysis
+Python fundamentals,
+Variables and data types,
+Lists, tuples, dictionaries sets,
+Conditional statements,
+Loops,
+Functions,
+Basic exception handling,
+Working with files,
+Basic data structures,
+Data manipulation,
+Basic exploratory data analysis,
  
 ⸻
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-read_csv()
-read_excel()
-head()
-tail()
-info()
-describe()
-shape
-columns
-dtypes
-loc[]
-iloc[]
-Boolean filtering
-sort_values()
-groupby()
-agg()
-apply()
-merge()
-concat()
-drop()
-drop_duplicates()
-isnull()
-fillna()
-dropna()
-Data type conversion
-Data cleaning
-Data transformation
-Basic EDA
+read_csv(),
+read_excel(),
+head(),
+tail(),
+info(),
+describe(),
+shape,
+columns,
+dtypes,
+loc[],
+iloc[],
+Boolean filtering,
+sort_values(),
+groupby(),
+agg(),
+apply(),
+merge(),
+concat(),
+drop(),
+drop_duplicates(),
+isnull(),
+fillna(),
+dropna(),
+Data type conversion,
+Data cleaning,
+Data transformation,
+Basic EDA,
  
 ⸻
  
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-Data cleaning
-Sorting and filtering
-Tables
-Conditional formatting
-Basic formulas
-SUM
-AVERAGE
-MIN
-MAX
-COUNT
-COUNTA
-COUNTIF
-SUMIF
-AVERAGEIF
-IF
-AND
-OR
-IFERROR
-VLOOKUP
-XLOOKUP
-INDEX
-MATCH
-Pivot Tables
-Charts
-Basic business reporting
+Data cleaning,
+Sorting and filtering,
+Tables,
+Conditional formatting,
+Basic formulas,
+SUM,
+AVERAGE,
+MIN,
+MAX,
+COUNT,
+COUNTA,
+COUNTIF,
+SUMIF,
+AVERAGEIF,
+IF,
+AND,
+OR,
+IFERROR,
+VLOOKUP,
+XLOOKUP,
+INDEX,
+MATCH,
+Pivot Tables,
+Charts,
+Basic business reporting,
  
 ⸻
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-Data loading
-Power Query
-Data cleaning
-Data transformation
-Data modeling
-Relationships
-Calculated columns
-Measures
-KPI dashboards
-Interactive reports
-Data visualization
-DAX
-SUM()
-AVERAGE()
-MIN()
-MAX()
-COUNT()
-COUNTROWS()
-DISTINCTCOUNT()
-DIVIDE()
-CALCULATE()
-FILTER()
-IF()
-SWITCH()
-RELATED()
-Basic time intelligence
-Basic filter context
-Basic row context
-Percentage calculations
-KPI calculations
+Data loading,
+Power Query,
+Data cleaning,
+Data transformation,
+Data modeling,
+Relationships,
+Calculated columns,
+Measures,
+KPI dashboards,
+Interactive reports,
+Data visualization,
+DAX,
+SUM(),
+AVERAGE(),
+MIN(),
+MAX(),
+COUNT(),
+COUNTROWS(),
+DISTINCTCOUNT(),
+DIVIDE(),
+CALCULATE(),
+FILTER(),
+IF(),
+SWITCH(),
+RELATED(),
+Basic time intelligence,
+Basic filter context,
+Basic row context,
+Percentage calculations,
+KPI calculations,
  
 ⸻
  
 [![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
-SQL development
-Database connection
-Query execution
-Data exploration
-Table inspection
-Filtering
-Sorting
-Exporting query results
-Database navigation
-Basic database management
+SQL development,
+Database connection,
+Query execution,
+Data exploration,
+Table inspection,
+Filtering,
+Sorting,
+Exporting query results,
+Database navigation,
+Basic database management,
  
 ⸻
  
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
-ChatGPT
-Analytical problem solving
-SQL assistance
-Python assistance
-Data analysis support
-Business question formulation
-Research
-Documentation
-Analytical brainstorming
-Debugging
-Data interpretation
-Claude
-Data analysis assistance
-Large-context document analysis
-SQL and Python assistance
-Business research
+ChatGPT,
+Analytical problem solving,
+SQL assistance,
+Python assistance,
+Data analysis support,
+Business question formulation,
+Research,
+Documentation,
+Analytical brainstorming,
+Debugging,
+Data interpretation,
+Claude,
+Data analysis assistance,
+Large-context document analysis,
+SQL and Python assistance,
+Business research,
 
 AI is used as an analytical productivity tool, while final conclusions and business decisions are based on data validation and human reasoning.
  
 ⸻
  
 Analytical Approach
-Business Question → Data → Cleaning → Exploration → Analysis → Visualization → Insight → Business Action
+Business Question → Data → Cleaning → Exploration → Analysis → Visualization → Insight → Business Action.
 I focus on connecting technical analysis with business context rather than producing charts without a clear purpose.
  
 ⸻
  
 Portfolio
 My projects include:
-SQL Data Analysis
-Python & Pandas Analysis
-E-commerce Analysis
-HR Analytics
-Banking Data Visualization
-Business Intelligence Dashboards
-Power BI Reports
-Business Insight Analysis
+SQL Data Analysis,
+Python & Pandas Analysis,
+E-commerce Analysis,
+HR Analytics,
+Banking Data Visualization,
+Business Intelligence Dashboards,
+Power BI Reports,
+Business Insight Analysis,
  
 ⸻
  
