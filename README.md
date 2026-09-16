@@ -23,13 +23,6 @@ My approach is not only to find what happened, but also to understand why it hap
  
 ⸻
  
-Experience
-Uzum — Data Analyst
-6 months
-Worked with business data and analytical tasks, applying SQL, Python, Excel, and visualization tools to analyze data and support business decision-making.
- 
-⸻
- 
 Education
 International Digital University (IDU)
 Data Science — Current Student
