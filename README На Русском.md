@@ -124,14 +124,12 @@ LinkedIn: Dior Tolstenko
 
 Email: diortolstenko@gmail.com
 
-Телефон: +998 93 831 80 10
-
 ⸻
 
 Diyor Tolstenko Normamatovich
 
 Data Analyst | Data Science Student | AI-Assisted Analytics
 
-Аналитическое мышление
+Аналитическое мышление.
 
-Разбор и декомпозиция задач
+Разбор и декомпозиция задач.
