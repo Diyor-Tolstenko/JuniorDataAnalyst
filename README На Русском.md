@@ -8,6 +8,24 @@ Data Analyst + Аналитика с использованием ИИ
 В настоящее время я изучаю Data Science в International Digital University (IDU), одновременно развивая профессиональные навыки в области Data Analytics, Business Analytics и Artificial Intelligence.
 
 ⸻
+## Мои данные проекты:
+
+HR-Analysis (https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/HR_Analysis.pdf) 
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+MArketing + AI Analysis (https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Marketing%20Data%20Analysis%20%2B%20AI.pdf)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)/![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+
+E-commerce Business Analysis (https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/e-commerceAnalysis.pdf) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)/![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+Bank Visual Analysis (https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Visuals/BankAnalysisVisual.pdf) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+E-Commerce Sales Visual Analysis (https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Visuals/e-commerceSalesVisual.pdf) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+##
 
 Что я могу сделать для вашего бизнеса
 
