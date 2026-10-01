@@ -15,6 +15,8 @@ Bank-Visual(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Visua
 
 E-commerce-Visual(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Visuals/e-commerceSalesVisual.pdf)
 
+##
+
 
 
 What I Can Do for Your Business
