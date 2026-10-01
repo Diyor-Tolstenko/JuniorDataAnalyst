@@ -4,7 +4,16 @@ I am a Junior Data Analyst focused on turning raw data into clear business insig
 Currently, I am studying Data Science at International Digital University (IDU) while developing my professional skills in Data Analytics, Business Analytics, and Artificial Intelligence.
  
 ⸻
- 
+## My current projects:
+HR-Analysis(
+https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/HR_Analysis.pdf)
+MArketingAI-Analysis(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Marketing%20Data%20Analysis%20%2B%20AI.pdf)
+E-commerce-Analysis(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/e-commerceAnalysis.pdf)
+Bank-Visual(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Visuals/BankAnalysisVisual.pdf)
+E-commerce-Visual(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Visuals/e-commerceSalesVisual.pdf)
+
+
+
 What I Can Do for Your Business
 Analyze business and operational data
 Identify trends, patterns, anomalies, and key business drivers
