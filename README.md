@@ -5,11 +5,14 @@ Currently, I am studying Data Science at International Digital University (IDU) 
  
 ⸻
 ## My current projects:
-HR-Analysis(
-https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/HR_Analysis.pdf)
+HR-Analysis(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/HR_Analysis.pdf)
+
 MArketingAI-Analysis(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Marketing%20Data%20Analysis%20%2B%20AI.pdf)
+
 E-commerce-Analysis(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/e-commerceAnalysis.pdf)
+
 Bank-Visual(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Visuals/BankAnalysisVisual.pdf)
+
 E-commerce-Visual(https://github.com/Diyor-Tolstenko/JuniorDataAnalyst/blob/main/Visuals/e-commerceSalesVisual.pdf)
 
 
